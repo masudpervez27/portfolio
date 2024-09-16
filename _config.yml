@@ -21,14 +21,14 @@ repository               : "masudpervez27/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/profile.png"
+  name             : "Masud Pervez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Passionate about uncovering data's secrets, blending science with innovation."
+  location         : "Stockholm, Sweden"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "masud.pervez@yahoo.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
