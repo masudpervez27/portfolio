@@ -16,9 +16,6 @@ main:
 
   - title: "Resources"
     url: /resources/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
@@ -28,6 +25,3 @@ main:
 
   - title: "Contact"
     url: /contact/
-  
-  - title: "Guide"
-    url: /markdown/
